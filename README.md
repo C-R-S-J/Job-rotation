@@ -1,2 +1,2 @@
 # Job rotation
- Respostas das quetões job rotation
+ Respostas das quetões job rotation.
